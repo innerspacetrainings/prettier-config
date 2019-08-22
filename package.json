@@ -1,0 +1,9 @@
+{
+	"name": "@innerspacetrainings/prettier-config",
+	"version": "1.0.0",
+	"description": "Shared prettier configuration for Innerspace",
+	"main": "index.json",
+	"repository": "git://github.com/innerspacetrainings/prettier-config.git",
+	"author": "Paul Schnetzinger <paul.schnetzinger@gmail.com>",
+	"license": "MIT"
+}
